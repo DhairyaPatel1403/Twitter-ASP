@@ -46,7 +46,4 @@ To get started with this project, you need to:
     Run database migrations to create the necessary database schema.
     Launch the application and start exploring the features.
 
-> Here is a video description of the project
-
-https://github.com/DhairyaPatel1403/Twitter-ASP/assets/102598850/71a75869-ddb2-4133-bebd-666bf3ffd475
 
